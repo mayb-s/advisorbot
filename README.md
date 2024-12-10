@@ -1,4 +1,4 @@
-Overview
+//Overview
 AdvisorBot is a command-line program that helps users make investment decisions 
 based on a set of pre-defined commands. It provides feedback, guides users through valid input, 
 and processes various commands to retrieve investment data. 
@@ -6,7 +6,8 @@ The bot is built with Object-Oriented Programming (OOP) principles,
 leveraging code from a previous project (Merkelrex) to handle data and input parsing.
 
 
-Features
+//Features
+
 Command-Line Interface (CLI): AdvisorBot allows users to interact with the program using text-based commands.
 
 Input Validation: Checks for invalid, empty, or incorrect commands and provides helpful error messages.
@@ -18,12 +19,14 @@ Help Command: The help command provides assistance with valid inputs,
 and help<cmd> provides examples for specific commands.
 
 
-Technologies Used
+//Technologies Used
+
 C++
 Object-Oriented Programming
 
 
-Key Functions
+//Key Functions
+
 Tokeniser: Parses commands into tokens using separators such as spaces or commas. It stores these tokens in a vector for processing.
 
 Input Checker: Validates user input to ensure commands are not empty or invalid.
