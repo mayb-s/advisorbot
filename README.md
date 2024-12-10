@@ -21,7 +21,7 @@ and help<cmd> provides examples for specific commands.
 
 //Technologies Used
 
-C++
+C++, 
 Object-Oriented Programming
 
 
