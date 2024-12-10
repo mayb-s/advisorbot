@@ -1,0 +1,13 @@
+
+
+For checking if a string is a digit
+https://www.tutorialspoint.com/cplusplus-program-to-check-if-input-is-an-integer-or-a-string
+
+https://www.programiz.com/cpp-programming/library-function/cctype/isdigit
+
+OOP Class Worksheets weeks 5 to 7
+- tokeniser 
+-csv file reader
+-data functions
+-time
+
